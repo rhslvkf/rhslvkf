@@ -53,6 +53,10 @@ I build practical, user-facing products as a solo developer — mobile apps, web
 
 * **[CryptoFlow Upbit](https://chromewebstore.google.com/detail/cryptoflow-upbit/pdpilahiaeedobgodpaofidcpapmknpm?authuser=0&hl=ko)** — Upbit 거래소 데이터를 브라우저에서 간편하게 확인할 수 있는 확장(거래/시세/알림 등 기능 제공).
 
+### 💻 VS Code Extensions
+
+* **[Keybinding Conflict Scanner](https://marketplace.visualstudio.com/items?itemName=rhslvkf.keybinding-conflict-scanner)** — VS Code 확장 설치 시 단축키 충돌을 자동으로 감지하고 해결해 주는 도구.
+
 ---
 
 ## 🛠️ Main Tech Stack
