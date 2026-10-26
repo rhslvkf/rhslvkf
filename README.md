@@ -1,4 +1,4 @@
-<a href="https://boreumdal.app"><img src="./banner.svg" width="100%" alt="보름달 FullMoon — 작은 생각을 끝까지 만들어 냅니다"></a>
+<a href="https://boreumdal.app"><img src="./header.svg" width="100%" alt="보름달 FullMoon — 작은 생각을 끝까지 만들어 냅니다"></a>
 
 작은 생각을 끝까지 만들어 내는 1인 개발 스튜디오예요. 기획부터 출시, 업데이트까지 혼자 합니다.
 게임과 앱을 App Store, Google Play, 토스 미니앱으로 내고 있어요.
