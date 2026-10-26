@@ -1,13 +1,9 @@
-<img src="https://boreumdal.app/img/profile.webp" width="96" align="right" alt="보름달 아래에서 노트북으로 작업하는 픽셀 아트">
-
 ### 보름달 (FullMoon)
 
 작은 생각을 끝까지 만들어 내는 1인 개발 스튜디오예요. 기획부터 출시, 업데이트까지 혼자 합니다.
 게임과 앱을 App Store, Google Play, 토스 미니앱으로 내고 있어요.
 
 [boreumdal.app](https://boreumdal.app) · [Threads @boreumdal.apps](https://www.threads.com/@boreumdal.apps) · boreumdal.apps@gmail.com
-
-<br clear="right">
 
 #### 지금 만드는 것
 
