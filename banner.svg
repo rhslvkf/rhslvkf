@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="보름달 FullMoon — 작은 생각을 끝까지 만들어 냅니다">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0e1838"/><stop offset="1" stop-color="#080f26"/>
+  </linearGradient>
+  <radialGradient id="moonFace" cx="42%" cy="38%" r="70%">
+    <stop offset="0" stop-color="#fff6d6"/><stop offset=".65" stop-color="#f3dea0"/><stop offset="1" stop-color="#d8bf7c"/>
+  </radialGradient>
+  <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+    <stop offset=".35" stop-color="#f3dea0" stop-opacity=".28"/><stop offset="1" stop-color="#f3dea0" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.2"/></filter>
+  <filter id="cloud" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="9"/></filter>
+  <clipPath id="frame"><rect width="1200" height="320" rx="22"/></clipPath>
+  <style>
+    .tw { fill:#f6e7b8; animation: tw 4s ease-in-out infinite; }
+    @keyframes tw { 0%,100% { opacity:.15 } 50% { opacity:1 } }
+    .halo { transform-origin: 1000px 135px; animation: halo 5.5s ease-in-out infinite; }
+    @keyframes halo { 0%,100% { transform: scale(1); opacity:.75 } 50% { transform: scale(1.12); opacity:1 } }
+    .moon { animation: rise 1.6s cubic-bezier(.2,.7,.2,1) both; }
+    @keyframes rise { from { transform: translateY(26px); opacity:0 } to { transform: none; opacity:1 } }
+    .cl1 { animation: drift 46s linear infinite; }
+    .cl2 { animation: drift 64s linear infinite; animation-delay:-30s; }
+    @keyframes drift { from { transform: translateX(-380px) } to { transform: translateX(1320px) } }
+    .shoot { stroke:#fff3cf; stroke-width:2; stroke-linecap:round; stroke-dasharray: 0 400; animation: shoot 9s ease-in infinite; animation-delay: 3s; }
+    @keyframes shoot { 0%,86% { stroke-dasharray: 0 400; stroke-dashoffset:0; opacity:0 }
+      88% { opacity:1 } 96% { stroke-dasharray: 90 400; stroke-dashoffset:-150; opacity:.9 } 100% { stroke-dasharray: 0 400; stroke-dashoffset:-260; opacity:0 } }
+    .t { font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", "Segoe UI", sans-serif; }
+    .in1, .in2, .in3, .in4 { opacity:0; animation: up .9s cubic-bezier(.2,.7,.2,1) forwards; }
+    .in1 { animation-delay:.3s } .in2 { animation-delay:.55s } .in3 { animation-delay:.85s } .in4 { animation-delay:1.15s }
+    @keyframes up { from { opacity:0; transform: translateY(12px) } to { opacity:1; transform:none } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; } }
+  </style>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="320" fill="url(#sky)"/>
+  <circle class="tw" cx="545" cy="153" r="1.3" style="animation-delay:1.81s;animation-duration:4.82s"/><circle class="tw" cx="240" cy="212" r="1.3" style="animation-delay:2.52s;animation-duration:4.66s"/><circle class="tw" cx="129" cy="90" r="0.8" style="animation-delay:2.15s;animation-duration:4.91s"/><circle class="tw" cx="756" cy="161" r="1.3" style="animation-delay:3.86s;animation-duration:4.3s"/><circle class="tw" cx="734" cy="54" r="0.8" style="animation-delay:3.33s;animation-duration:2.76s"/><circle class="tw" cx="61" cy="231" r="1.6" style="animation-delay:0.12s;animation-duration:3.81s"/><circle class="tw" cx="531" cy="222" r="1.6" style="animation-delay:0.93s;animation-duration:3.36s"/><circle class="tw" cx="25" cy="37" r="1" style="animation-delay:1.63s;animation-duration:4.03s"/><circle class="tw" cx="315" cy="201" r="1.6" style="animation-delay:1.16s;animation-duration:2.78s"/><circle class="tw" cx="21" cy="67" r="0.8" style="animation-delay:1.88s;animation-duration:5.15s"/><circle class="tw" cx="481" cy="34" r="1" style="animation-delay:3.11s;animation-duration:3.3s"/><circle class="tw" cx="121" cy="97" r="1.3" style="animation-delay:3.03s;animation-duration:2.91s"/><circle class="tw" cx="306" cy="41" r="0.8" style="animation-delay:1.86s;animation-duration:3.87s"/><circle class="tw" cx="811" cy="62" r="1.6" style="animation-delay:0.76s;animation-duration:4.5s"/><circle class="tw" cx="172" cy="173" r="0.8" style="animation-delay:1.58s;animation-duration:5.17s"/><circle class="tw" cx="21" cy="227" r="1.6" style="animation-delay:1.22s;animation-duration:4.9s"/><circle class="tw" cx="264" cy="112" r="1.6" style="animation-delay:2.57s;animation-duration:2.86s"/><circle class="tw" cx="320" cy="205" r="1" style="animation-delay:3.32s;animation-duration:3.6s"/><circle class="tw" cx="106" cy="67" r="1" style="animation-delay:0.06s;animation-duration:3.56s"/><circle class="tw" cx="742" cy="47" r="1.6" style="animation-delay:1.93s;animation-duration:4.09s"/><circle class="tw" cx="199" cy="238" r="1.6" style="animation-delay:1.0s;animation-duration:3.09s"/><circle class="tw" cx="878" cy="245" r="1" style="animation-delay:2.75s;animation-duration:3.61s"/><circle class="tw" cx="580" cy="35" r="0.8" style="animation-delay:0.42s;animation-duration:2.7s"/><circle class="tw" cx="360" cy="59" r="0.8" style="animation-delay:0.51s;animation-duration:3.85s"/><circle class="tw" cx="778" cy="166" r="0.8" style="animation-delay:1.12s;animation-duration:4.99s"/><circle class="tw" cx="257" cy="20" r="1" style="animation-delay:1.65s;animation-duration:3.25s"/><circle class="tw" cx="74" cy="85" r="1.6" style="animation-delay:2.29s;animation-duration:2.94s"/><circle class="tw" cx="440" cy="233" r="1" style="animation-delay:2.63s;animation-duration:4.4s"/><circle class="tw" cx="698" cy="50" r="0.8" style="animation-delay:3.69s;animation-duration:3.83s"/><circle class="tw" cx="435" cy="92" r="0.8" style="animation-delay:0.09s;animation-duration:4.25s"/><circle class="tw" cx="579" cy="194" r="1" style="animation-delay:0.55s;animation-duration:2.79s"/><circle class="tw" cx="546" cy="106" r="0.8" style="animation-delay:3.6s;animation-duration:4.52s"/><circle class="tw" cx="815" cy="236" r="1.3" style="animation-delay:3.78s;animation-duration:2.68s"/><circle class="tw" cx="600" cy="20" r="1.3" style="animation-delay:1.52s;animation-duration:2.63s"/><circle class="tw" cx="104" cy="38" r="0.8" style="animation-delay:3.97s;animation-duration:4.89s"/>
+  <g class="tw" style="animation-delay:0.4s;animation-duration:3.6s" transform="translate(150 58)"><rect x="-1.5" y="-1.5" width="3" height="3"/><rect x="-1.5" y="-6" width="3" height="3" opacity=".55"/><rect x="-1.5" y="3" width="3" height="3" opacity=".55"/><rect x="-6" y="-1.5" width="3" height="3" opacity=".55"/><rect x="3" y="-1.5" width="3" height="3" opacity=".55"/></g><g class="tw" style="animation-delay:1.6s;animation-duration:3.6s" transform="translate(640 42)"><rect x="-1.5" y="-1.5" width="3" height="3"/><rect x="-1.5" y="-6" width="3" height="3" opacity=".55"/><rect x="-1.5" y="3" width="3" height="3" opacity=".55"/><rect x="-6" y="-1.5" width="3" height="3" opacity=".55"/><rect x="3" y="-1.5" width="3" height="3" opacity=".55"/></g><g class="tw" style="animation-delay:2.4s;animation-duration:3.6s" transform="translate(760 232)"><rect x="-1.5" y="-1.5" width="3" height="3"/><rect x="-1.5" y="-6" width="3" height="3" opacity=".55"/><rect x="-1.5" y="3" width="3" height="3" opacity=".55"/><rect x="-6" y="-1.5" width="3" height="3" opacity=".55"/><rect x="3" y="-1.5" width="3" height="3" opacity=".55"/></g><g class="tw" style="animation-delay:0.9s;animation-duration:3.6s" transform="translate(1150 262)"><rect x="-1.5" y="-1.5" width="3" height="3"/><rect x="-1.5" y="-6" width="3" height="3" opacity=".55"/><rect x="-1.5" y="3" width="3" height="3" opacity=".55"/><rect x="-6" y="-1.5" width="3" height="3" opacity=".55"/><rect x="3" y="-1.5" width="3" height="3" opacity=".55"/></g><g class="tw" style="animation-delay:3.1s;animation-duration:3.6s" transform="translate(420 250)"><rect x="-1.5" y="-1.5" width="3" height="3"/><rect x="-1.5" y="-6" width="3" height="3" opacity=".55"/><rect x="-1.5" y="3" width="3" height="3" opacity=".55"/><rect x="-6" y="-1.5" width="3" height="3" opacity=".55"/><rect x="3" y="-1.5" width="3" height="3" opacity=".55"/></g>
+  <line class="shoot" x1="540" y1="40" x2="800" y2="130"/>
+  <g class="moon">
+    <circle class="halo" cx="1000" cy="135" r="150" fill="url(#glow)"/>
+    <circle cx="1000" cy="135" r="74" fill="url(#moonFace)"/>
+    <g fill="#a8915a" opacity=".22" filter="url(#soft)">
+      <ellipse cx="978" cy="112" rx="18" ry="13"/><ellipse cx="1012" cy="104" rx="11" ry="9"/>
+      <ellipse cx="990" cy="152" rx="22" ry="15"/><ellipse cx="1030" cy="142" rx="10" ry="12"/>
+    </g>
+  </g>
+  <g fill="#c7d2f0" opacity=".10" filter="url(#cloud)">
+    <ellipse class="cl1" cx="0" cy="210" rx="160" ry="22"/>
+    <ellipse class="cl2" cx="0" cy="168" rx="120" ry="16"/>
+  </g>
+  <path d="M0 292 C 160 270 300 286 450 276 S 760 262 900 280 S 1110 270 1200 284 L1200 320 L0 320 Z" fill="#070d22" opacity=".9"/>
+  <text class="t in1" x="72" y="104" font-size="18" fill="#9fb0d8" letter-spacing=".5">1인 개발 스튜디오</text>
+  <text class="t in2" x="70" y="172" font-size="64" font-weight="800" fill="#eef2fb" letter-spacing="-1">보름달 <tspan font-size="34" font-weight="600" fill="#9fb0d8" letter-spacing="0">FullMoon</tspan></text>
+  <text class="t in3" x="72" y="216" font-size="22" fill="#d7def2">작은 생각을 끝까지 만들어 냅니다</text>
+  <g class="in4">
+    <rect x="72" y="238" width="128" height="30" rx="15" fill="#f3dea0"/>
+    <text class="t" x="136" y="258" font-size="14" font-weight="700" fill="#231c06" text-anchor="middle">boreumdal.app</text>
+  </g>
+</g>
+</svg>
