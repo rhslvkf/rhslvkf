@@ -17,8 +17,6 @@
     @keyframes tw { 0%,100% { opacity:.15 } 50% { opacity:1 } }
     .halo { transform-origin: 1000px 135px; animation: halo 5.5s ease-in-out infinite; }
     @keyframes halo { 0%,100% { transform: scale(1); opacity:.75 } 50% { transform: scale(1.12); opacity:1 } }
-    .moon { animation: rise 1.6s cubic-bezier(.2,.7,.2,1) both; }
-    @keyframes rise { from { transform: translateY(26px); opacity:0 } to { transform: none; opacity:1 } }
     .cl1 { animation: drift 46s linear infinite; }
     .cl2 { animation: drift 64s linear infinite; animation-delay:-30s; }
     @keyframes drift { from { transform: translateX(-380px) } to { transform: translateX(1320px) } }
@@ -26,10 +24,7 @@
     @keyframes shoot { 0%,86% { stroke-dasharray: 0 400; stroke-dashoffset:0; opacity:0 }
       88% { opacity:1 } 96% { stroke-dasharray: 90 400; stroke-dashoffset:-150; opacity:.9 } 100% { stroke-dasharray: 0 400; stroke-dashoffset:-260; opacity:0 } }
     .t { font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", "Segoe UI", sans-serif; }
-    .in1, .in2, .in3, .in4 { animation: up .9s cubic-bezier(.2,.7,.2,1) both; }
-    .in1 { animation-delay:.3s } .in2 { animation-delay:.55s } .in3 { animation-delay:.85s } .in4 { animation-delay:1.15s }
-    @keyframes up { from { opacity:0; transform: translateY(12px) } to { opacity:1; transform:none } }
-    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+        @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
 </defs>
 <g clip-path="url(#frame)">
