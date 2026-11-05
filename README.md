@@ -18,6 +18,11 @@
 <td><b>차트퀘스트</b><br>종목도 날짜도 모르는 실제 주식 차트로 하는 매매 게임. 내 규칙대로 사고파는 마이봇 리그도 있어요.<br>
 <a href="https://apps.apple.com/kr/app/id6814542936">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.fullmoon.chartquest">Google Play</a> · <a href="https://chartquest.boreumdal.app/">소개</a></td>
 </tr>
+<tr>
+<td><img src="https://boreumdal.app/img/sumukomok.webp" width="64" alt=""></td>
+<td><b>수묵 오목</b><br>내 급수에 맞는 AI와 두는 오목. 18급에서 6단까지 올라가고, 판이 끝나면 승부가 갈린 자리를 한 수 복기로 짚어 드려요.<br>
+<a href="https://apps.apple.com/kr/app/id6829333675">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.fullmoon.sumukomok">Google Play</a> · <a href="https://sumukomok.boreumdal.app/">소개</a></td>
+</tr>
 </table>
 
 #### 토스 미니앱
