@@ -9,14 +9,14 @@
 
 <table>
 <tr>
-<td width="72"><img src="https://boreumdal.app/img/seonbi.webp" width="64" alt=""></td>
-<td><b>선비검객 · Ink Parry</b><br>사방에서 날아오는 공격을 원에 닿는 순간 그어 막는 수묵 검술 액션. 그림과 소리를 모두 코드로 만들었어요.<br>
-<a href="https://apps.apple.com/app/id6819034181">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.fullmoon.parrydojo">Google Play</a> · <a href="https://inkparry.boreumdal.app/">소개</a></td>
+<td width="72"><img src="https://boreumdal.app/img/chartquest.webp" width="64" alt=""></td>
+<td><b>차트퀘스트</b><br>종목도 날짜도 모르는 실제 주식 차트로 하는 매매 게임. 같은 차트로 친구에게 도전장을 보내고, 내 규칙대로 사고파는 마이봇 리그도 있어요.<br>
+<a href="https://apps.apple.com/kr/app/id6814542936">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.fullmoon.chartquest">Google Play</a> · <a href="https://chartquest.boreumdal.app/">소개</a></td>
 </tr>
 <tr>
-<td><img src="https://boreumdal.app/img/chartquest.webp" width="64" alt=""></td>
-<td><b>차트퀘스트</b><br>종목도 날짜도 모르는 실제 주식 차트로 하는 매매 게임. 내 규칙대로 사고파는 마이봇 리그도 있어요.<br>
-<a href="https://apps.apple.com/kr/app/id6814542936">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.fullmoon.chartquest">Google Play</a> · <a href="https://chartquest.boreumdal.app/">소개</a></td>
+<td><img src="https://boreumdal.app/img/seonbi.webp" width="64" alt=""></td>
+<td><b>선비검객 · Ink Parry</b><br>사방에서 날아오는 공격을 원에 닿는 순간 그어 막는 수묵 검술 액션. 그림과 소리를 모두 코드로 만들었어요.<br>
+<a href="https://apps.apple.com/app/id6819034181">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.fullmoon.parrydojo">Google Play</a> · <a href="https://inkparry.boreumdal.app/">소개</a></td>
 </tr>
 <tr>
 <td><img src="https://boreumdal.app/img/sumukomok.webp" width="64" alt=""></td>
