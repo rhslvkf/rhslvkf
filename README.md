@@ -18,11 +18,6 @@
 <td><b>선비검객 · Ink Parry</b><br>사방에서 날아오는 공격을 원에 닿는 순간 그어 막는 수묵 검술 액션. 그림과 소리를 모두 코드로 만들었어요.<br>
 <a href="https://apps.apple.com/app/id6819034181">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.fullmoon.parrydojo">Google Play</a> · <a href="https://inkparry.boreumdal.app/">소개</a></td>
 </tr>
-<tr>
-<td><img src="https://boreumdal.app/img/sumukomok.webp" width="64" alt=""></td>
-<td><b>수묵 오목</b><br>내 급수에 맞는 AI와 두는 오목. 18급에서 6단까지 올라가고, 판이 끝나면 승부가 갈린 자리를 한 수 복기로 짚어 드려요.<br>
-<a href="https://apps.apple.com/kr/app/id6829333675">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.fullmoon.sumukomok">Google Play</a> · <a href="https://sumukomok.boreumdal.app/">소개</a></td>
-</tr>
 </table>
 
 #### 토스 미니앱
@@ -31,6 +26,7 @@
 
 | | |
 |---|---|
+| <img src="https://boreumdal.app/img/sumukomok.webp" width="20"> **수묵 오목** | 내 급수에 맞는 AI와 두는 오목 ([App Store](https://apps.apple.com/kr/app/id6829333675) · [Google Play](https://play.google.com/store/apps/details?id=com.fullmoon.sumukomok)) |
 | <img src="https://boreumdal.app/img/warrr.webp" width="20"> **와르르 이삿날** | 짐을 쌓고 지키는 이사 퍼즐 |
 | <img src="https://boreumdal.app/img/nyang.webp" width="20"> **냥글냥글** | 한 마리씩 맞추는 고양이 퍼즐 |
 | <img src="https://boreumdal.app/img/wolgeup.webp" width="20"> **월급 미터** | 지금까지 번 돈을 초 단위로 |
