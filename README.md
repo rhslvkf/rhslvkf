@@ -7,7 +7,14 @@
 
 #### 지금 만드는 것
 
+<a href="https://keeperwanted.boreumdal.app/"><img src="https://boreumdal.app/img/keeperwanted-keyart.webp" width="100%" alt="수상한 등대지기 구함 — 폭풍 치는 밤바다에서 등대지기가 바다 괴물에게 작살을 겨누는 도트 그림"></a>
+
 <table>
+<tr>
+<td width="72"><img src="https://boreumdal.app/img/keeperwanted.webp" width="64" alt=""></td>
+<td><b>수상한 등대지기 구함 · Keeper Wanted</b> <sup>NEW</sup><br>먼 바다 등대지기를 구합니다. 기간 1,000일, 계약금 100억 — 조건은 단 하나, 밤에 불을 끄지 말 것. 작살로 바다 괴물과 거대 보스를 막는 도트 방치형 디펜스예요. 8개 언어.<br>
+<a href="https://play.google.com/store/apps/details?id=com.fullmoon.keeperwanted">Google Play</a> · App Store 곧 출시 · <a href="https://keeperwanted.boreumdal.app/">소개</a> · <a href="https://www.youtube.com/watch?v=Eg-n4xolfn8">트레일러</a></td>
+</tr>
 <tr>
 <td width="72"><img src="https://boreumdal.app/img/chartquest.webp" width="64" alt=""></td>
 <td><b>차트퀘스트</b><br>종목도 날짜도 모르는 실제 주식 차트로 하는 매매 게임. 같은 차트로 친구에게 도전장을 보내고, 내 규칙대로 사고파는 마이봇 리그도 있어요.<br>
