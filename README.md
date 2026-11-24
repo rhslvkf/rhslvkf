@@ -7,8 +7,6 @@
 
 #### 지금 만드는 것
 
-<a href="https://keeperwanted.boreumdal.app/"><img src="https://boreumdal.app/img/keeperwanted-keyart.webp" width="100%" alt="수상한 등대지기 구함 — 폭풍 치는 밤바다에서 등대지기가 바다 괴물에게 작살을 겨누는 도트 그림"></a>
-
 <table>
 <tr>
 <td width="72"><img src="https://boreumdal.app/img/keeperwanted.webp" width="64" alt=""></td>
