@@ -9,7 +9,7 @@
 
 <table>
 <tr>
-<td width="72"><img src="https://boreumdal.app/img/keeperwanted.webp" width="64" alt=""></td>
+<td width="72"><img src="https://boreumdal.app/img/keeperwanted.webp?v=132f57c2" width="64" alt=""></td>
 <td><b>수상한 등대지기 구함 · Keeper Wanted</b> <sup>NEW</sup><br>먼 바다 등대지기를 구합니다. 기간 1,000일, 계약금 100억 — 조건은 단 하나, 밤에 불을 끄지 말 것. 작살로 바다 괴물과 거대 보스를 막는 도트 방치형 디펜스예요. 8개 언어.<br>
 <a href="https://play.google.com/store/apps/details?id=com.fullmoon.keeperwanted">Google Play</a> · App Store 곧 출시 · <a href="https://keeperwanted.boreumdal.app/">소개</a> · <a href="https://www.youtube.com/watch?v=Eg-n4xolfn8">트레일러</a></td>
 </tr>
